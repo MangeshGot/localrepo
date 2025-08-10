@@ -1,0 +1,45 @@
+[33mcommit ddc49d386fc6b1207b732b997cc69b9c3e76cf09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: ca26a9c 77c5f5d
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sun Aug 10 11:17:00 2025 +0530
+
+    both
+
+[33mcommit 77c5f5dccd0661a91896b8e22b2022fd97c2c809[m
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sun Aug 10 10:55:46 2025 +0530
+
+    in branch
+
+[33mcommit ca26a9cb2805402aaf2eab69fc26722a0883d8b9[m
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sun Aug 10 10:50:41 2025 +0530
+
+    feature1 added in main
+
+[33mcommit 6ffe7f115c514fa77a8ed6fd3f1d58685d61bed5[m
+Merge: caf309d bdbb4dc
+Author: MangeshGot <m.sonawanegot@gmail.com>
+Date:   Sat Aug 9 23:39:03 2025 +0530
+
+    Merge pull request #1 from MangeshGot/feature1
+    
+    bhaii added
+
+[33mcommit bdbb4dc91afe348f50e71a63cc7ddd1720a69f71[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sat Aug 9 23:33:29 2025 +0530
+
+    bhaii added
+
+[33mcommit caf309df9c28f844ed4fa8b1d1889692d5b374a4[m
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sat Aug 9 23:23:18 2025 +0530
+
+    Bhai smja
+
+[33mcommit b70380b9844dddc145f1957e278996fe3f55d387[m
+Author: Mangeshgot <m.sonawanegot@gmail.com>
+Date:   Sat Aug 9 23:13:06 2025 +0530
+
+    addininit file
